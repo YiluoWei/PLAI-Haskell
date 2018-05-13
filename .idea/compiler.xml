@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="HaskellBuildOptions">
+    <useCabal>true</useCabal>
+    <ghcPath>C:\Program Files\Haskell Platform\8.4.2\bin</ghcPath>
+    <cabalPath>C:\Program Files\Haskell Platform\8.4.2\lib</cabalPath>
+    <stackPath>C:\Users\PC\AppData\Roaming\local\bin\stack.exe</stackPath>
+  </component>
+</project>
